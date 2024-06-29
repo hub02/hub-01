@@ -1,4 +1,4 @@
 # hub-01
 This is my first Git Repository.
 <br>
-Author-Kanishka (coder.07)
+Author-Kanishka Shrivastava
